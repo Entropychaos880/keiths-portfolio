@@ -1,4 +1,10 @@
-
+:root {
+    --bg-color: #080808;       
+    --card-bg: #131313;       
+    --text-color: #ffffff;
+    --main-color: #00ef18;    
+    --secondary-text: #cccccc;
+}
 
 * {
     margin: 0;
@@ -513,4 +519,5 @@ footer {
     }
 
 }
+
 
